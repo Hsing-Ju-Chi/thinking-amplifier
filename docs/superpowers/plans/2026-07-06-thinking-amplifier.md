@@ -446,6 +446,8 @@ git clone https://github.com/Hsing-Ju-Chi/thinking-amplifier.git ~/.claude/skill
 2. **心法筆記**：把每次的判斷心法存成你的個人判斷力字典
 3. **陪練難度分級**：初級給提示，進階全裸判斷
 
+> **2026-07-08 範圍定案**：第 2 項已於 v2 實作；第 1、3 項不納入，理由見 README Roadmap 與 spec 文件同日註記。
+
 ## License
 
 MIT
